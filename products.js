@@ -37,7 +37,7 @@ let products = [
     description: "A place for your cat to play!",
     price: 7.99,
     image:
-      "ihttps://cdn.pixabay.com/photo/2021/08/25/20/42/field-6574455__340.jpg",
+      "https://cdn.pixabay.com/photo/2021/08/25/20/42/field-6574455__340.jpg",
     availableInventory: 11,
     rating: 5,
   },
